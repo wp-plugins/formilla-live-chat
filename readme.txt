@@ -43,10 +43,6 @@ The [Formilla.com Live Chat Platform](http://www.Formilla.com/ "Formilla.com Liv
 
 * Formilla.com customer inbox (help desk) includes the customer's **technical details** such as operating system, browser, screen resolution, etc.  Also pass in **custom fields for easier tracking** such as account IDs, customer IDs, name, phone, and more!
 
-* Get started immediately with our installation video tutorial
-[youtube http://www.youtube.com/embed/3qodtXvmpdg]
-
-
 == Installation ==
 
 1. Download and **unzip the formilla-live-chat.zip** to your wordpress **`/wp-content/plugins/`** directory
