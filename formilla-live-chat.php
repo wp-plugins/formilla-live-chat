@@ -3,7 +3,7 @@
 Plugin Name: Formilla Live Chat
 Plugin URI: http://www.formilla.com
 Description: Free Live Chat.  No strings attached.
-Version: 1.0
+Version: 1.0.1
 Author: Formilla.com
 Author URI: http://www.formilla.com/
 */
