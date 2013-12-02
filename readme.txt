@@ -3,7 +3,7 @@ Contributors: zgilyana
 Tags: free live chat, live chat, chat widget, chat button, mobile chat, iphone, iphone chat, android, android chat, free chat, free chat widget, chat form, gchat, Google chat, skype, website chat, wordpress chat, live support, customer support, customer feedback, chat plugin, online support, formilla, formilla live chat, help desk
 Requires at least: 2.7
 Tested up to: 3.7
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -118,6 +118,9 @@ Google Hangouts is different from Google Talk. Unfortunately Google Hangouts wil
 10. From left to right: Our Email us button and form in English; a customized version of the Email us button and form in Spanish
 
 == Changelog ==
+
+= 1.0.1 =
+Updated readme.txt to add more FAQ, installation video tutorial, new screenshots.  No other changes.
 
 = 1.0 =
 * Initial release
