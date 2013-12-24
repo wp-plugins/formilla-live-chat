@@ -3,14 +3,14 @@
 Plugin Name: Formilla Live Chat
 Plugin URI: http://www.formilla.com
 Description: Free Live Chat.  No strings attached.
-Version: 1.0.1
+Version: 1.0.2
 Author: Formilla.com
 Author URI: http://www.formilla.com/
 */
 
 $plugurldir = get_option('siteurl').'/'.PLUGINDIR.'/formilla-live-chat/';
 $formilla_domain = 'FormillaLiveChat';
-load_plugin_textdomain($formilla_domain, 'wp-content/plugins/formilla-live-chat');
+load_plugin_textdomain($formilla_domain, false, 'wp-content/plugins/formilla-live-chat');
 add_action('init', 'formilla_init');
 add_action('wp_footer', 'formilla_chat_script');
 add_action('wp_ajax_save_formilla_settings', 'save_formilla_settings');

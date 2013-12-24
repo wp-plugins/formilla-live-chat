@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: zgilyana
-Tags: free live chat, live chat, chat widget, chat button, mobile chat, iphone, iphone chat, android, android chat, free chat, free chat widget, chat form, gchat, Google chat, skype, website chat, wordpress chat, live support, customer support, customer feedback, chat plugin, online support, formilla, formilla live chat, help desk
+Tags: free live chat, live chat, chat widget, chat button, mobile chat, iphone, iphone chat, android, android chat, free chat, free chat widget, chat form, gchat, Google chat, website chat, wordpress chat, live support, customer support, customer feedback, chat plugin, online support, formilla, formilla live chat, help desk
 Requires at least: 2.7
-Tested up to: 3.7
-Stable tag: 1.0.1
+Tested up to: 3.8
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,9 +17,9 @@ The [Formilla.com Live Chat Platform](http://www.Formilla.com/ "Formilla.com Liv
 
 * You can use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress site upon installation/activation of this plugin.
 
-* Formilla.com Live Chat allows you to **use your favorite live chat client** as long as it works with **Google Talk** (e.g. **Pidgin**, **Trillian**, **IMO**, etc.) or **Skype**.
+* Formilla.com Live Chat allows you to **use your favorite live chat client** as long as it works with **Google Talk** (e.g. **Pidgin**, **Trillian**, **IMO**, etc.).
 
-* Respond to chats on the go via your **iPhone**, **Android**, or any smart phone live chat client supporting Google Talk (gtalk) or Skype.  Our Google Talk and Skype option allows for up to four concurrent chats per chat agent.
+* Respond to chats on the go via your **iPhone**, **Android**, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
 
 * Enable proactive chat to initiate an automatic live chat window to be displayed to your users 
 
@@ -74,19 +74,19 @@ Yes, the Email Notifications option is enabled by default for every Formilla.com
 
 
 = I've followed all the instructions but I still appear offline and see the "Email us" button on my site. How do I go online and get the button to say "Chat with us"? =
-If you're using the Live Chat web interface, it behaves just like any chat client; you must login to Formilla.com (the chat client) via your **WordPress Admin Panel --> Formilla Chat** menu item, or directly at Formilla.com in a new browser window. Once you've logged in and navigated to the **Live Chat --> Live Chat Now** page, you're considered online and ready to accept chats. If you log off, your button will go to offline mode and display "Email us". If you're using Google Talk or Skype instead of the live chat web interface, simply log into your preferred chat client for either service and Formilla.com will recognize you're online and display "Chat with us" after a few seconds.  
+If you're using the Live Chat web interface, it behaves just like any chat client; you must login to Formilla.com (the chat client) via your **WordPress Admin Panel --> Formilla Chat** menu item, or directly at Formilla.com in a new browser window. Once you've logged in and navigated to the **Live Chat --> Live Chat Now** page, you're considered online and ready to accept chats. If you log off, your button will go to offline mode and display "Email us". If you're using Google Talk instead of the live chat web interface, simply log into your preferred chat client for either service and Formilla.com will recognize you're online and display "Chat with us" after a few seconds.  
 
 
 = How do I appear unavailable so that customers cannot chat with me during that time? =
-If you are currently not available to chat, just sign out of your Formilla.com Live Chat account and you will not receive any live chats during this time.  We took a very simple approach to appearing online versus offline for live chat.  If you are using Google Talk or Skype via Formilla.com Live Chat instead, simply sign out of your preferred client and Formilla.com will automatically update your status.      
+If you are currently not available to chat, just sign out of your Formilla.com Live Chat account and you will not receive any live chats during this time.  We took a very simple approach to appearing online versus offline for live chat.  If you are using Google Talk via Formilla.com Live Chat instead, simply sign out of your preferred client and Formilla.com will automatically update your status.      
 
 
 = Is there a way for me to deactivate my live chat wordpress button momentarily without deactivating or removing the plugin? =
 Yes.  Access your wordpress admin panel and select the **Formilla Chat** link to access your Formilla.com Live Chat account.  Upon logging in, navigate to your live chat widget's Advanced Options by selecting from the menu as follows: **Live Chat** **-->** **View Widgets** then select the edit icon of your widget and **uncheck** the **Active Widget** option on the **Widget Details** tab.  This will simply hide the live chat button from your wordpress site.  Once ready, just **check** the same box and the button re-appears! 
 
 
-= How do I configure Google Talk (gtalk/gchat) or Skype chat instead of using the Formilla.com Live Chat standard offering? =
-Setup Skype or Google Talk by accessing your Formilla.com Live Chat account and navigate to **Account Settings --> Manage Users** and select the edit icon for the appropriate account. Under the Chat Client dropdown, choose Skype or Gtalk and provide your Chat User Name. Upon saving, you can log into your Skype or Google Talk chat client and you'll notice multiple Formilla.com chat bot invitations. You will need to accept the chat invitations to start using your chat client with Formilla.com. Once you accept the invitations, your chat button should turn to "Chat with us" after a few moments. If you log off from your client, the button will automatically recognize you are no longer available and shift to "Email us".
+= How do I configure Google Talk (gtalk/gchat) instead of using the Formilla.com Live Chat standard offering? =
+Setup Google Talk by accessing your Formilla.com Live Chat account and navigate to **Account Settings --> Manage Users** and select the edit icon for the appropriate account. Under the Chat Client dropdown, choose Gtalk and provide your Chat User Name. Upon saving, you can log into your Google Talk chat client and you'll notice multiple Formilla.com chat bot invitations. You will need to accept the chat invitations to start using your chat client with Formilla.com. Once you accept the invitations, your chat button should turn to "Chat with us" after a few moments. If you log off from your client, the button will automatically recognize you are no longer available and shift to "Email us".
 
 
 = Can I proactively initiate a live chat session with my customers? =
@@ -94,15 +94,15 @@ Yes.  Simply access your WordPress admin panel and select the **Formilla Chat** 
 
 
 = Does Formilla Live Chat work with my smart phone (e.g. iPhone, Android, etc.)? =
-Yes.  We recommend using mobile chat clients for use with Skype or Google Talk to chat from your mobile phone on the go! For those using the live chat web interface, it is currently not optimized for chat from your mobile phone. We have plans on introducing mobile support in the near future. 
+Yes.  We recommend using mobile chat clients for use with Google Talk to chat from your mobile phone on the go! For those using the live chat web interface, it is currently not optimized for chat from your mobile phone. We have plans on introducing mobile support in the near future. 
 
 
-= How do I end a chat using my Skype or Google Talk client if the user does not end it? =
-To end a live chat session, simply send ~end via your Skype or Google Talk chat client. It's important to end chats upon completion to ensure your chat queue can receive new chats as they may arrive at any time while you're online.
+= How do I end a chat using my Google Talk client if the user does not end it? =
+To end a live chat session, simply send ~end via your Google Talk chat client. It's important to end chats upon completion to ensure your chat queue can receive new chats as they may arrive at any time while you're online.
 
 
 = Is Google Hangouts the same thing as Google Talk, and will it work with Formilla.com Live Chat? =
-Google Hangouts is different from Google Talk. Unfortunately Google Hangouts will not work via Formilla.com Live Chat. You can either revert back to Google Talk or use our alternative Live Chat web interface or Skype!
+Google Hangouts is different from Google Talk. Unfortunately Google Hangouts will not work via Formilla.com Live Chat. You can either revert back to Google Talk or use our alternative Live Chat web interface!
 
 == Screenshots ==
 
@@ -118,6 +118,9 @@ Google Hangouts is different from Google Talk. Unfortunately Google Hangouts wil
 10. From left to right: Our Email us button and form in English; a customized version of the Email us button and form in Spanish
 
 == Changelog ==
+
+= 1.0.2 =
+Officially WP 3.8 compliant. Fixed minor bug, updated readme text as well. 
 
 = 1.0.1 =
 Updated readme.txt to add more FAQ, installation video tutorial, new screenshots.  No other changes.
