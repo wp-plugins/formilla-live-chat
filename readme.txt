@@ -1,13 +1,13 @@
 === Plugin Name ===
 Contributors: zgilyana
-Tags: free live chat, live chat, chat widget, chat button, mobile chat, iphone, iphone chat, android, android chat, free chat, free chat widget, chat form, gchat, Google chat, website chat, wordpress chat, live support, customer support, customer feedback, chat plugin, online support, formilla, formilla live chat, help desk
+Tags: free live chat, live chat, live chat button, live chat widget, chat button, email button, live chat plugin, live chat module, chat online, mobile live chat, live chat help, iphone, iphone live chat, android, android live chat, free chat, chat form, gchat, Google chat, website chat, wordpress chat, live support, chat live, live chat software, customer live chat, customer support software, customer feedback, chat plugin, online support, contact form, formilla, formilla live chat, help desk, online live chat
 Requires at least: 2.7
 Tested up to: 3.8
 Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Install live chat to your wordpress site. Chat with your visitors with a clean and easy-to-use interface. No strings attached!
+Install live chat to your WordPress site! Chat with your visitors with a clean and easy-to-use interface.
 
 == Description ==
 
