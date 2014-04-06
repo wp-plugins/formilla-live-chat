@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: zgilyana
-Tags: free live chat, live chat, live chat button, live chat widget, chat button, email button, live chat plugin, live chat module, chat online, mobile live chat, live chat help, iphone, iphone live chat, android, android live chat, free chat, chat form, gchat, Google chat, website chat, wordpress chat, live support, chat live, live chat software, customer live chat, customer support software, customer feedback, chat plugin, online support, contact form, formilla, formilla live chat, help desk, online live chat
+Tags: free live chat, live chat, livechat, live chat button, live chat widget, chat button, email button, live chat plugin, live chat module, chat online, mobile live chat, live chat help, iphone, iphone live chat, android, android live chat, free chat, chat form, gchat, Google chat, website chat, wordpress chat, live support, chat live, live chat software, customer live chat, customer support software, customer feedback, chat plugin, online support, contact form, formilla, formilla live chat, help desk, helpdesk, help desk software, online live chat
 Requires at least: 2.7
 Tested up to: 3.8
 Stable tag: 1.0.2
@@ -31,17 +31,17 @@ The [Formilla.com Live Chat Platform](http://www.Formilla.com/ "Formilla.com Liv
 
 * Formilla.com Live Chat automatically displays as an **'Email us' button on your site when you're offline**.  You can manage offline messages through the Formilla.com Customer Inbox or on the go by using your preferred email client.  The **Customer Inbox comes with your account** as a **Help Desk solution** for managing customer email, **customer feedback**, prioritization, and **ticket management**.
 
-* You can **search your live chat history** or offline emails by customer email address, priority, status (new, read, pending, complete), flagged vs. unflagged, and also assign an item to another user of your Formilla.com Live Chat account.    
+* The Customer Inbox help desk allows you to **search your live chat history** or offline emails by customer email address, priority, status (new, read, pending, complete), flagged vs. unflagged, and also assign an item to another user of your Formilla.com Live Chat account.    
 
 * Access your **chat history** and offline emails as well via the Formilla.com Live Chat Customer Inbox help desk solution.   
 
-* Formilla.com Live Chat allows you to **export your customers' email addresses** to construct email marketing campaigns via your preferred tool.
+* Formilla.com Live Chat allows you to **export your customers' email addresses** from the Customer Inbox help desk to construct email marketing campaigns via your preferred tool.
 
-* **Forward offline email submissions** from your customers to other departments or staff directly from the Formilla.com Live Chat customer inbox.
+* **Forward offline email submissions** from your customers to other departments or staff directly from the Formilla.com Live Chat customer inbox help desk.
 
-* Add private comments to any live chat historical record in your Formilla.com Live Chat customer inbox
+*  Formilla.com Live Chat gives you the ability to add private comments to any live chat historical record in your Customer Inbox help desk.
 
-* Formilla.com customer inbox (help desk) includes the customer's **technical details** such as operating system, browser, screen resolution, etc.  Also pass in **custom fields for easier tracking** such as account IDs, customer IDs, name, phone, and more!
+* Formilla.com Customer Inbox help desk includes the customer's **technical details** such as operating system, browser, screen resolution, etc.  Also pass in **custom fields for easier tracking** such as account IDs, customer IDs, name, phone, and more!
 
 * Get started immediately with our installation video tutorial
 [youtube http://www.youtube.com/embed/3qodtXvmpdg]
@@ -70,7 +70,7 @@ Simply access your wordpress admin panel and select the **Formilla Chat** link t
 
 
 = Can I receive an email notification when my customers use the 'Email us' button while I'm offline from chat? = 
-Yes, the Email Notifications option is enabled by default for every Formilla.com Live Chat widget you create. Removing the email address(es) on the Advanced Options tab of the live chat widget configuration page effectively disables the feature. Alternatively, you may add additional email recipients by simply comma-separating each email address.
+Yes, the Email Notifications option is enabled by default for every Formilla.com Live Chat widget you create. Removing the email address(es) on the Advanced Options tab of the live chat widget configuration page effectively disables the feature. Alternatively, you may add additional email recipients by simply comma-separating each email address.  You can respond to emails using your favorite email client, or directly from the Formilla.com Customer Inbox help desk.
 
 
 = I've followed all the instructions but I still appear offline and see the "Email us" button on my site. How do I go online and get the button to say "Chat with us"? =
@@ -108,7 +108,7 @@ Google Hangouts is different from Google Talk. Unfortunately Google Hangouts wil
 
 1. The Formilla Live Chat page integrated within wordpress where you'll receive and respond to chats.
 2. The chat widget installed on your wordpress site upon activation of Formilla.com Live Chat plugin.
-3. The Formilla Live Chat Customer Inbox.  View chat history, search and respond to offline email submissions, etc.
+3. The Formilla Live Chat Customer Inbox help desk.  View chat history, search and respond to offline email submissions, etc.
 4. Configure options for your chat widget such as proactive chat, hours of operation, and email notifications. 
 5. Formilla.com Live Chat admin panel where the creativity begins :)
 6. From left to right: Our original live chat button and form; a customized version of the chat button and form.
