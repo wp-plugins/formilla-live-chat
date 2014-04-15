@@ -11,7 +11,7 @@ Install live chat to your WordPress site! Chat with your visitors with a clean a
 
 == Description ==
 
-The [Formilla.com Live Chat Platform](http://www.Formilla.com/ "Formilla.com Live Chat Platform") offers **FREE live chat** and premium services for your WordPress site.  Allow your visitors to chat with you live if they have any questions or need support.
+The [Formilla.com Live Chat Software](http://www.Formilla.com/ "Formilla.com Live Chat Software") offers **FREE live chat** and premium services for your WordPress site.  Allow your visitors to chat with you live if they have any questions or need support.
 
 **Formilla.com Live Chat Core Features:**
 
