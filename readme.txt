@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: zgilyana
-Tags: free live chat, live chat, livechat, live chat button, live chat widget, chat button, email button, live chat plugin, live chat module, chat online, mobile live chat, live chat help, iphone, iphone live chat, android, android live chat, free chat, chat form, gchat, Google chat, website chat, wordpress chat, live support, chat live, live chat software, customer live chat, customer support software, customer feedback, chat plugin, online support, contact form, help desk, helpdesk, help desk software, online live chat
+Tags: free live chat, free chat, live chat, livechat, live chat button, live chat widget, chat button, email button, live chat plugin, live chat module, chat online, mobile live chat, live chat help, iphone, iphone live chat, android, android live chat, free chat, chat form, gchat, Google chat, website chat, wordpress chat, live support, chat live, live chat software, customer live chat, customer support software, customer feedback, chat plugin, online support, contact form, help desk, helpdesk, help desk software, online live chat
 Requires at least: 2.7
 Tested up to: 3.9.1
 Stable tag: 1.0.2
@@ -27,6 +27,8 @@ Install live chat to your WordPress site! Chat with your visitors with a clean a
 
 * Our **Language support** option allows you to customize the text of the live chat buttons, chat forms, and offline email forms.  Customize your live chat widget in any language, including **Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more!** 
 
+* Make sure you don't miss any chats by enabling **Desktop Notifications** to see an alert box displayed every time you receive a chat.  This feature currently works with Chrome, Firefox, and Safari.   
+
 * **Add multiple users** to your Formilla.com Live Chat account to support incoming live chats from your customers.  
 
 * Formilla.com Live Chat automatically displays as an **'Email us' button on your site when you're offline**.  You can manage offline messages through the Formilla.com Customer Inbox or on the go by using your preferred email client.  The **Customer Inbox comes with your account** as a **Help Desk solution** for managing customer email, **customer feedback**, prioritization, and **ticket management**.
@@ -43,7 +45,7 @@ Install live chat to your WordPress site! Chat with your visitors with a clean a
 
 * Formilla.com Customer Inbox help desk includes the customer's **technical details** such as operating system, browser, screen resolution, etc.  Also pass in **custom fields for easier tracking** such as account IDs, customer IDs, name, phone, and more!
 
-* Get started immediately with our installation video tutorial
+* Get started immediately with our free live chat package and by following our installation video tutorial
 [youtube http://www.youtube.com/embed/3qodtXvmpdg]
 
 
@@ -103,6 +105,22 @@ To end a live chat session, simply send ~end via your Google Talk chat client. I
 
 = Is Google Hangouts the same thing as Google Talk, and will it work with Formilla.com Live Chat? =
 Google Hangouts is different from Google Talk. Unfortunately Google Hangouts will not work via Formilla.com Live Chat. You can either revert back to Google Talk or use our alternative Live Chat web interface!
+
+
+= Does the free live chat package allow me to use a smart phone to chat with my customers? =
+Yes. Our free live chat package can be configured to use any smart phone or tablet using Google Talk to send a receive chats.
+
+
+= How does the 30 chats/emails limit on the standard free live chat package work? =
+At the 1st of every month, the total count of chats/emails is set to 0 for all standard free live chat customers.  Each chat conversation counts as 1 chat, as does every offline email submission you receive.  Formilla.com will send you an email once you reach 20 or more chats in a month, and another email once you've reached 30.  
+
+
+= Does the Customer Inbox Help Desk come with the standard free live chat package? =
+Yes.  Our standard free live chat customers can enjoy the Help Desk feature absolutely free!  You can read and respond to offline emails, add private notes to chat conversations or emails, search, and more!
+
+
+= Can I enable the desktop notifications feature with the standard free live chat package? =
+Yes.  The desktop notifications feature works with your free live chat or premium package and can be enabled from within your Formilla.com account, under Account Settings.  Desktop notifications work with Firefox, Chrome, and Safari at this time.  
 
 == Screenshots ==
 
