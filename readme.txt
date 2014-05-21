@@ -108,7 +108,7 @@ Google Hangouts is different from Google Talk. Unfortunately Google Hangouts wil
 
 
 = Does the free live chat package allow me to use a smart phone to chat with my customers? =
-Yes. Our free live chat package can be configured to use any smart phone or tablet using Google Talk to send a receive chats.
+Yes. Our free live chat package can be configured with any smart phone or tablet using Google Talk to send and receive chats.
 
 
 = How does the 30 chats/emails limit on the standard free live chat package work? =
@@ -116,11 +116,11 @@ At the 1st of every month, the total count of chats/emails is set to 0 for all s
 
 
 = Does the Customer Inbox Help Desk come with the standard free live chat package? =
-Yes.  Our standard free live chat customers can enjoy the Help Desk feature absolutely free!  You can read and respond to offline emails, add private notes to chat conversations or emails, search, and more!
+Yes.  Our standard free live chat customers can enjoy the Help Desk feature absolutely free!  You can read and respond to offline emails, view chat history, add private notes to chat conversations or emails, search, and more!
 
 
 = Can I enable the desktop notifications feature with the standard free live chat package? =
-Yes.  The desktop notifications feature works with your free live chat or premium package and can be enabled from within your Formilla.com account, under Account Settings.  Desktop notifications work with Firefox, Chrome, and Safari at this time.  
+Yes.  The desktop notifications feature works with the standard free live chat or premium package and can be enabled from within your Formilla.com account, under Account Settings.  Desktop notifications work with Firefox, Chrome, and Safari at this time.  
 
 == Screenshots ==
 
