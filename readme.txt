@@ -21,7 +21,7 @@ Install live chat to your WordPress site! Chat with your visitors with a clean a
 
 * Respond to chats on the go via your **iPhone**, **Android**, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
 
-* Enable proactive chat to initiate an automatic live chat window to be displayed to your users 
+* Enable **proactive chat** to initiate an automatic live chat window to be displayed to your users 
 
 * Formilla.com Live Chat **allows multiple customizations**, including the ability to setup your **hours of operation** for when you appear available or unavailable, **language support**, and **custom themes** so you can choose your own colors and skin your live chat widgets!  You can also choose whether your chat button appears on the bottom left or bottom right corner of your website.
 
