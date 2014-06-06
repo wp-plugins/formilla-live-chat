@@ -11,7 +11,7 @@ Install live chat to your WordPress site! Chat with your visitors with a clean a
 
 == Description ==
 
-[Formilla.com Live Chat Software](http://www.Formilla.com/ "Formilla.com Live Chat Software") offers **FREE live chat** and premium services for your WordPress site.  Allow your visitors to chat with you live if they have any questions or need support.
+[Formilla.com Live Chat Software](http://www.Formilla.com/ "Formilla.com Live Chat Software") offers **FREE live chat** and Premium services for your WordPress site.  Allow your visitors to chat with you live if they have any questions or need support.
 
 **Formilla.com Live Chat Core Features:**
 
@@ -19,7 +19,7 @@ Install live chat to your WordPress site! Chat with your visitors with a clean a
 
 * Formilla.com Live Chat allows you to **use your favorite live chat client** as long as it works with **Google Talk** (e.g. **Pidgin**, **Trillian**, **IMO**, etc.).
 
-* Respond to chats on the go via your **iPhone**, **Android**, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
+* Respond to chats from your **iPhone**, **Android**, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
 
 * Enable **proactive chat** to initiate an automatic live chat window to be displayed to your users 
 
