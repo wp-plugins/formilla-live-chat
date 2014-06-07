@@ -104,7 +104,7 @@ To end a live chat session, simply send ~end via your Google Talk chat client. I
 
 
 = Is Google Hangouts the same thing as Google Talk, and will it work with Formilla.com Live Chat? =
-Google Hangouts is different from Google Talk. Unfortunately Google Hangouts will not work via Formilla.com Live Chat. You can either revert back to Google Talk or use our alternative Live Chat web interface!
+Google Hangouts is different from Google Talk. Unfortunately Google Hangouts will not work via Formilla.com Live Chat. You can either revert back to Google Talk or use our alternative Live Chat web interface.
 
 
 = Does the free live chat package allow me to use a smart phone to chat with my customers? =
