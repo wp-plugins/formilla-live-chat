@@ -7,7 +7,7 @@ Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Install live chat to your WordPress site! Chat with your visitors with a clean and easy-to-use interface.
+Install live chat software on your WordPress site! Chat with your visitors with a clean and easy-to-use interface.
 
 == Description ==
 
@@ -17,13 +17,13 @@ Install live chat to your WordPress site! Chat with your visitors with a clean a
 
 * You can use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress site upon installation/activation of this plugin.
 
-* Formilla.com Live Chat allows you to **use your favorite live chat client** as long as it works with **Google Talk** (e.g. **Pidgin**, **Trillian**, **IMO**, etc.).
+* Formilla.com Live Chat software allows you to **use your favorite live chat client** as long as it works with **Google Talk** (e.g. **Pidgin**, **Trillian**, **IMO**, etc.).
 
 * Respond to chats from your **iPhone**, **Android**, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
 
-* Enable **proactive chat** to initiate an automatic live chat window to be displayed to your users 
+* Enable **proactive chat** to trigger live chat automatically with a visitor after a defined number of seconds.
 
-* Formilla.com Live Chat **allows multiple customizations**, including the ability to setup your **hours of operation** for when you appear available or unavailable, **language support**, and **custom themes** so you can choose your own colors and skin your live chat widgets!  You can also choose whether your chat button appears on the bottom left or bottom right corner of your website.
+* Formilla.com Live Chat software **allows multiple customizations**, including the ability to setup your **hours of operation** for when you appear available or unavailable, **language support**, and **custom themes** so you can choose your own colors and skin your live chat widgets!  You can also choose whether your chat button appears on the bottom left or bottom right corner of your website.
 
 * Our **Language support** option allows you to customize the text of the live chat buttons, chat forms, and offline email forms.  Customize your live chat widget in any language, including **Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more!** 
 
@@ -37,7 +37,7 @@ Install live chat to your WordPress site! Chat with your visitors with a clean a
 
 * Access your **chat history** and offline emails as well via the Formilla.com Live Chat Customer Inbox help desk solution.   
 
-* Formilla.com Live Chat allows you to **export your customers' email addresses** from the Customer Inbox help desk to construct email marketing campaigns via your preferred tool.
+* Formilla.com Live Chat software allows you to **export your customers' email addresses** from the Customer Inbox help desk to construct email marketing campaigns via your preferred tool.
 
 * **Forward offline email submissions** from your customers to other departments or staff directly from the Formilla.com Live Chat customer inbox help desk.
 
@@ -58,7 +58,7 @@ Install live chat to your WordPress site! Chat with your visitors with a clean a
 
 == Frequently Asked Questions ==
 
-= How do I install Formilla.com Live Chat to my WordPress site? =
+= How do I install Formilla.com Live Chat software to my WordPress site? =
 Follow our quick installation video tutorial below or the instructions tab of this page.
 [youtube http://www.youtube.com/watch?v=3qodtXvmpdg]
 
