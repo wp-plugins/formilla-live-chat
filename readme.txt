@@ -64,7 +64,7 @@ Follow our quick installation video tutorial below or the instructions tab of th
 
 
 = What is the Formilla 'Chat ID' under the wordpress plugin settings? =
-The chat ID is simply the unique identifier for your particular live chat widget. Your live chat widget won't display on your WordPress website unless you have a Chat ID entered on the settings page.  You will receive this ID via email upon registering with Formilla.com via the **Formilla Chat** link on your WordPress admin panel.
+The chat ID is the unique identifier for your particular live chat widget. Your live chat widget won't display on your WordPress website unless you have a Chat ID entered on the settings page.  You will receive this ID via email upon registering with Formilla.com via the **Formilla Chat** link on your WordPress admin panel.
 
 
 = Can I specify my hours of operation or simply that I am unavailable to chat? =
