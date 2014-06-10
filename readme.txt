@@ -41,7 +41,7 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 * **Forward offline email submissions** from your customers to other departments or staff directly from the Formilla.com Live Chat customer inbox help desk.
 
-*  Formilla.com Live Chat gives you the ability to add private comments to any live chat historical record in your Customer Inbox help desk.
+*  Formilla.com Live Chat gives you the ability to **add private comments** to any live chat historical record in your Customer Inbox help desk.
 
 * Formilla.com Customer Inbox help desk includes the customer's **technical details** such as operating system, browser, screen resolution, etc.  Also pass in **custom fields for easier tracking** such as account IDs, customer IDs, name, phone, and more!
 
