@@ -25,7 +25,7 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 * Formilla.com Live Chat software **allows multiple customizations**, including the ability to setup your **hours of operation** for when you appear available or unavailable, **language support**, and **custom themes** so you can choose your own colors and skin your live chat widgets!  You can also choose whether your chat button appears on the bottom left or bottom right corner of your website.
 
-* Our **Language support** option allows you to customize the text of the live chat buttons, chat forms, and offline email forms.  Customize your live chat widget in any language, including **Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more!** 
+* Our **Language support** option allows you to **customize the text** of the live chat buttons, chat forms, and offline email forms.  Customize your live chat widget in any language, including **Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more!** 
 
 * Make sure you don't miss any chats by enabling **Desktop Notifications** to see an alert box displayed every time you receive a chat.  This feature currently works with Chrome, Firefox, and Safari.   
 
