@@ -84,7 +84,7 @@ If you are currently not available to chat, just sign out of your Formilla.com L
 
 
 = Is there a way for me to deactivate my live chat wordpress button momentarily without deactivating or removing the plugin? =
-Yes.  Access your wordpress admin panel and select the **Formilla Chat** link to access your Formilla.com Live Chat account.  Upon logging in, navigate to your live chat widget's Advanced Options by selecting from the menu as follows: **Live Chat** **-->** **View Widgets** then select the edit icon of your widget and **uncheck** the **Active Widget** option on the **Widget Details** tab.  This will simply hide the live chat button from your wordpress site.  Once ready, just **check** the same box and save for the button to re-appear. 
+Yes.  Access your wordpress admin panel and select the **Formilla Chat** link to access your Formilla.com Live Chat account.  Upon logging in, navigate to your live chat widget's Advanced Options by selecting from the menu as follows: **Live Chat --> View Widgets** then select the edit icon of your widget and **uncheck** the **Active Widget** option on the **Widget Details** tab.  This will simply hide the live chat button from your wordpress site.  Once ready, just **check** the same box and save for the button to re-appear. 
 
 
 = How do I configure Google Talk (gtalk/gchat) instead of using the Formilla.com Live Chat standard offering? =
