@@ -88,7 +88,7 @@ Yes.  Access your wordpress admin panel and select the **Formilla Chat** link to
 
 
 = How do I configure Google Talk (gtalk/gchat) instead of using the Formilla.com Live Chat standard offering? =
-Setup Google Talk by accessing your Formilla.com Live Chat account and navigate to **Account Settings --> Manage Users** and select the edit icon for the appropriate account. Under the Chat Client dropdown, choose Gtalk and provide your Chat User Name. Upon saving, you can log into your Google Talk chat client and you'll notice multiple Formilla.com chat bot invitations. You will need to accept the chat invitations to start using your chat client with Formilla.com. Once you accept the invitations, your chat button should turn to "Chat with us" after a few moments. If you log off from your client, the button will automatically recognize you are no longer available and shift to "Email us".
+Setup Google Talk by accessing your Formilla.com Live Chat account and navigate to **Account Settings --> Manage Users** and select the edit icon for the appropriate account. Under the **Chat Client dropdown**, choose Gtalk and provide your Chat User Name. Upon saving, you can log into your Google Talk chat client and you'll notice multiple Formilla.com chat bot invitations. You will need to accept the chat invitations to start using your chat client with Formilla.com. Once you accept the invitations, your chat button should turn to "Chat with us" after a few moments. If you log off from your client, the button will automatically recognize you are no longer available and shift to "Email us".
 
 
 = Can I proactively initiate a live chat session with my customers? =
