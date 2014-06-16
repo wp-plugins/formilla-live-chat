@@ -53,13 +53,13 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 1. Download and **unzip the formilla-live-chat.zip** to your wordpress **`/wp-content/plugins/`** directory
 2. **Activate** the plugin through the **'Plugins' menu** in WordPress
-3. Choose the **Sign-up** link from the plugins page or navigate to the **'Formilla Chat'** menu item that appears on your wordpress site upon activating the plugin to complete registration
+3. Choose the **Sign-up** link from the plugins page or navigate to the **'Formilla Chat'** menu item that appears on your WordPress site upon activating the plugin to complete registration
 4. **That's it!**  Once registered, your live chat widget is created instantly and is available on your site for customers to chat with you.
 
 == Frequently Asked Questions ==
 
 = How do I install Formilla.com Live Chat software to my WordPress site? =
-Follow our quick installation video tutorial below or the instructions tab of this page.
+Follow our quick installation video tutorial below or the instructions tab of this page:
 [youtube http://www.youtube.com/watch?v=3qodtXvmpdg]
 
 
@@ -79,7 +79,7 @@ Yes, the Email Notifications option is enabled by default for every Formilla.com
 If you're using the Live Chat web interface, it behaves just like any chat client; you must login to Formilla.com (the chat client) via your **WordPress Admin Panel --> Formilla Chat** menu item, or directly at Formilla.com in a new browser window. Once you've logged in and navigated to the **Live Chat --> Live Chat Now** page, you're considered online and ready to accept chats. If you log off, your button will go to offline mode and display "Email us". If you're using Google Talk instead of the live chat web interface, simply log into your preferred chat client for either service and Formilla.com will recognize you're online and display "Chat with us" after a few seconds.  
 
 
-= How do I appear unavailable so that customers cannot chat with me during that time? =
+= How do I appear offline so that customers cannot chat with me during that time? =
 If you are currently not available to chat, just sign out of your Formilla.com Live Chat account and you will not receive any live chats during this time.  We took a very simple approach to appearing online versus offline for live chat.  If you are using Google Talk via Formilla.com Live Chat instead, simply sign out of your preferred client and Formilla.com will automatically update your status.      
 
 
