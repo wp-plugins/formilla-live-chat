@@ -11,7 +11,7 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 == Description ==
 
-[Formilla.com Live Chat Software](http://www.Formilla.com/ "Formilla.com Live Chat Software") offers **FREE live chat** and Premium services for your WordPress site.  Allow your visitors to chat with you live if they have any questions or need support.
+[Formilla.com Live Chat Software](http://www.Formilla.com/ "Formilla.com Live Chat Software") offers **FREE live chat and Premium services** for your WordPress site.  Allow your visitors to chat with you live if they have any questions or need support.
 
 **Formilla.com Live Chat Core Features:**
 
@@ -31,7 +31,7 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 * **Add multiple users** to your Formilla.com Live Chat account to support incoming live chats from your customers.  
 
-* Formilla.com Live Chat automatically displays as an **'Email us' button on your site when you're offline**.  You can manage offline messages through the Formilla.com Customer Inbox or on the go by using your preferred email client.  The **Customer Inbox comes with your account** as a **Help Desk solution** for managing customer email, **customer feedback**, prioritization, and **ticket management**.
+* Formilla.com Live Chat automatically displays as an **'Email us' button on your site when you're offline**.  You can manage offline messages through the Formilla.com Customer Inbox or on the go by using your **preferred email client**.  The **Customer Inbox comes with your account** as a **Help Desk solution** for managing customer email, **customer feedback**, prioritization, and **ticket management**.
 
 * The Customer Inbox help desk allows you to **search your live chat history** or offline emails by customer email address, priority, status (new, read, pending, complete), flagged vs. unflagged, and also assign an item to another user of your Formilla.com Live Chat account.    
 
@@ -63,7 +63,7 @@ Follow our quick installation video tutorial below or the instructions tab of th
 [youtube http://www.youtube.com/watch?v=3qodtXvmpdg]
 
 
-= What is the Formilla 'Chat ID' under the wordpress plugin settings? =
+= What is the Formilla 'Chat ID' under the WordPress plugin settings? =
 The chat ID is the unique identifier for your particular live chat widget. Your live chat widget won't display on your WordPress website unless you have a Chat ID entered on the settings page.  You will receive this ID via email upon registering with Formilla.com via the **Formilla Chat** link on your WordPress admin panel.
 
 
@@ -83,7 +83,7 @@ If you're using the Live Chat web interface, it behaves just like any chat clien
 If you are currently not available to chat, just sign out of your Formilla.com Live Chat account and you will not receive any live chats during this time.  We took a very simple approach to appearing online versus offline for live chat.  If you are using Google Talk via Formilla.com Live Chat instead, simply sign out of your preferred client and Formilla.com will automatically update your status.      
 
 
-= Is there a way for me to deactivate my live chat wordpress button momentarily without deactivating or removing the plugin? =
+= Is there a way for me to deactivate my live chat WordPress button momentarily without deactivating or removing the plugin? =
 Yes.  Access your wordpress admin panel and select the **Formilla Chat** link to access your Formilla.com Live Chat account.  Upon logging in, navigate to your live chat widget's Advanced Options by selecting from the menu as follows: **Live Chat --> View Widgets** then select the edit icon of your widget and **uncheck** the **Active Widget** option on the **Widget Details** tab.  This will simply hide the live chat button from your wordpress site.  Once ready, just **check** the same box and save for the button to re-appear. 
 
 
