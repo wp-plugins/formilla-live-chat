@@ -150,6 +150,7 @@ function formilla_chat_script() {
 		    echo("      head.appendChild(script); ");
 		    echo("  })(); ");
     		echo(" </script> ");
+    		echo("<noscript><div style=\"text-align:right\"><a href=\"http://www.formilla.com/requirements.aspx\" title=\"Live Chat Software Questions\" target=\"_blank\">Questions?</a> Formilla.com <a href=\"http://www.formilla.com\" title=\"Live Chat Software\">Live Chat Software</a></div></noscript>");
     }
 }
 
