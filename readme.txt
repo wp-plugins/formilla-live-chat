@@ -68,7 +68,7 @@ The chat ID is the unique identifier for your particular live chat widget. Your 
 
 
 = Can I specify my hours of operation or simply that I am unavailable to chat? =
-Simply access your wordpress admin panel and select the **Formilla Chat** link to access your Formilla.com Live Chat account.  Upon logging in, navigate to your live chat widget's Advanced Options by selecting from the menu as follows: **Live Chat** **-->** **View Widgets** then select the edit icon of your widget and modify the hours of operation from the **Advanced Options** tab.
+Access your wordpress admin panel and select the **Formilla Chat** link to access your Formilla.com Live Chat account.  Upon logging in, navigate to your live chat widget's Advanced Options by selecting from the menu as follows: **Live Chat** **-->** **View Widgets** then select the edit icon of your widget and modify the hours of operation from the **Advanced Options** tab.
 
 
 = Can I receive an email notification when my customers use the 'Email us' button while I'm offline from chat? = 
