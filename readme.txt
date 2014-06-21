@@ -72,7 +72,7 @@ Access your wordpress admin panel and select the **Formilla Chat** link to acces
 
 
 = Can I receive an email notification when my customers use the 'Email us' button while I'm offline from chat? = 
-Yes, the Email Notifications option is enabled by default for every Formilla.com Live Chat widget you create. Removing the email address(es) on the Advanced Options tab of the live chat widget configuration page disables the feature. Alternatively, you may add additional email recipients by simply comma-separating each email address.  You can respond to emails using your favorite email client, or directly from the Formilla.com Customer Inbox help desk.
+Yes, the Email Notifications option is enabled by default for every Formilla.com Live Chat widget you create. Removing the email address(es) on the Advanced Options tab of the live chat widget configuration page disables the feature. Alternatively, you may add additional email recipients by simply comma-separating each email address.  You can respond to emails using your preferred email client, or directly from the Formilla.com Customer Inbox help desk.
 
 
 = I've followed all the instructions but I still appear offline and see the "Email us" button on my site. How do I go online and get the button to say "Chat with us"? =
