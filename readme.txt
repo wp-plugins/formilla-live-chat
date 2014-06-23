@@ -23,13 +23,13 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 * Enable **proactive chat** to trigger live chat automatically with a visitor after a defined number of seconds.
 
-* Formilla.com Live Chat software **allows multiple customizations**, including the ability to setup your **hours of operation** for when you appear available or unavailable, **language support**, **custom attention grabbers**, and **custom themes** so you can choose your own colors and skin your live chat widgets!  You can also choose whether your chat button appears on the bottom left or bottom right corner of your website.
+* Formilla.com Live Chat software Premium packages **allow for multiple customizations**, including the ability to setup your **hours of operation** for when you appear available or unavailable, **language support**, **custom attention grabbers**, and **custom themes** so you can choose your own colors and skin your live chat widgets!  You can also choose whether your chat button appears on the bottom left or bottom right corner of your website.
 
-* Our **Language support** option allows you to **customize the text** of the live chat buttons, chat forms, and offline email forms.  Customize your live chat widget in any language, including **Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more!** 
+* Our **Language support** option allows you to **customize the text** of the live chat buttons, chat forms, and offline email forms.  Our Premium packages allow you to Customize your live chat widget in any language, including **Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more!** 
 
 * Make sure you don't miss any chats by enabling **Desktop Notifications** to see an alert box displayed every time you receive a chat.  This feature currently works with Chrome, Firefox, and Safari.   
 
-* **Add multiple users** to your Formilla.com Live Chat account to support incoming live chats from your customers.  
+* Our Premium package allows you to **add multiple users** to your Formilla.com Live Chat account to support incoming live chats from your customers.
 
 * Formilla.com Live Chat automatically displays as an **'Email us' button on your site when you're offline**.  You can manage offline messages through the Formilla.com Customer Inbox or on the go by using your **preferred email client**.  The **Customer Inbox comes with your account** as a **Help Desk solution** for managing customer email, **customer feedback**, prioritization, and **ticket management**.
 
