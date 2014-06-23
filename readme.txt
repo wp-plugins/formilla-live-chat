@@ -95,7 +95,7 @@ Setup Google Talk by accessing your Formilla.com Live Chat account and navigate 
 Yes.  Simply access your WordPress admin panel and select the **Formilla Chat** link to access your Formilla.com Live Chat account.  Upon logging in, navigate to your live chat widget's Advanced Option by selecting from the menu as follows: **Live Chat** **-->** **View Widgets** then select the edit icon of your widget and **check** the **'Enable Auto Display'** field to configure proactive live chat from the **Advanced Options** tab.
 
 
-= Does Formilla Live Chat work with my smart phone (e.g. iPhone, Android, etc.)? =
+= Does Formilla Live Chat work with my mobile phone (e.g. iPhone, Android, etc.)? =
 Yes.  We recommend using mobile chat clients (e.g. Trillian, Pidgin, IMO, etc.) for use with Google Talk to chat from your mobile phone on the go! For those using the live chat web interface, it is currently not optimized for chat from your mobile phone. We have plans on introducing mobile support in the near future. 
 
 
