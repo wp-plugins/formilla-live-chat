@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: zgilyana
-Tags: free live chat, free chat, live chat, livechat, live chat button, live chat widget, chat widget, widget, chat button, email button, live chat plugin, live chat module, chat online, mobile live chat, live chat help, iphone, iphone live chat, android, android live chat, ipad, tablet, livehelp, live help, free chat, chat form, gchat, Google chat, website chat, wordpress chat, live support, chat live, live chat software, live chat platform, customer live chat, customer support software, customer feedback, chat plugin, online support, contact form, help desk, helpdesk, help desk software, online live chat
+Tags: free live chat, live chat, livechat, live chat software, live chat widget, widget, live chat plugin, mobile live chat, live support, help desk, contact form, customer feedback
 Requires at least: 2.7
 Tested up to: 3.9.1
 Stable tag: 1.0.2
