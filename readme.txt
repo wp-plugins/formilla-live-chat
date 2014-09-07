@@ -45,7 +45,7 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 * Formilla.com Customer Inbox help desk includes the customer's **technical details** such as operating system, browser, screen resolution, etc.  Also pass in **custom fields for easier tracking** such as account IDs, customer IDs, name, phone, and more!
 
-* Get started immediately with our free live chat package and by following our installation video tutorial
+* Get started immediately with our free live chat package and by following our installation video tutorial:
 [youtube http://www.youtube.com/embed/3qodtXvmpdg]
 
 
