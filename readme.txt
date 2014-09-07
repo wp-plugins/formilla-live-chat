@@ -15,38 +15,48 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 **Formilla.com Live Chat Core Features:**
 
-* You can use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress site upon installation/activation of this plugin.
+* **Installs Instantly:** You can use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress site upon installation/activation of this plugin.
 
-* Formilla.com Live Chat software allows you to **use your favorite live chat client** as long as it works with **Google Talk** (e.g. **Pidgin**, **Trillian**, **IMO**, etc.).
+* **Google Talk Support:** Formilla.com Live Chat software allows you to use your favorite live chat client as long as it works with Google Talk (e.g. Pidgin, Trillian, IMO, etc.).
 
-* Respond to chats from your **iPhone**, **Android**, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
+* **Mobile Chat** Respond to chats from your iPhone, Android, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
 
-* Enable **proactive chat** to trigger live chat automatically with a visitor after a defined number of seconds.
+* **Language Support (International):** Our Language support option allows you to customize the text of the live chat buttons, chat forms, and offline email forms.  Our Premium packages allow you to Customize your live chat widget in any language, including Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more! 
 
-* Formilla.com Live Chat software Premium packages **allow for multiple customizations**, including the ability to setup your **hours of operation** for when you appear available or unavailable, **language support**, **custom attention grabbers**, and **custom themes** so you can choose your own colors and skin your live chat widgets!  You can also choose whether your chat button appears on the bottom left or bottom right corner of your website.
+* **Pro-active Chat:** Enable pro-active chat to trigger live chat automatically with a visitor after a defined number of seconds.
 
-* Our **Language support** option allows you to **customize the text** of the live chat buttons, chat forms, and offline email forms.  Our Premium packages allow you to Customize your live chat widget in any language, including **Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more!** 
+* **User/Agent is Typing a Message...:** Now you don't need to wonder if the person you're chatting with is even on the other end! Formilla.com Live Chat keeps visitors and agents informed if the User or Agent is typing message. This improves usability and makes conversations more enjoyable.
 
-* Make sure you don't miss any chats by enabling **Desktop Notifications** to see an alert box displayed every time you receive a chat.  This feature currently works with Chrome, Firefox, and Safari.   
+* **Desktop Notifications:** Make sure you don't miss any chats by enabling Desktop Notifications to see an alert box displayed every time you receive a chat.  This feature currently works with Chrome, Firefox, and Safari.   
 
-* Our Premium packages allow you to **add multiple users** to your Formilla.com Live Chat account to support incoming live chats from your customers.
+* **Custom Banners, Colors, and Themes:** Formilla.com Live Chat software Premium packages allow you to customize your chat widgets to match your site's look and feel. Change the color of the chat button/widget, chat message and font color, backgrounds, etc. Upload your own online and offline live chat images to use in your header, footer, etc. to encourage customers to live chat!
 
-* Formilla.com Live Chat automatically displays as an **'Email us' button on your site when you're offline**.  You can manage offline messages through the Formilla.com Customer Inbox or on the go by using your **preferred email client**.  The **Customer Inbox comes with your account** as a **Help Desk solution** for managing customer email, **customer feedback**, prioritization, and **ticket management**.
+* **Attention Grabbers:** Formilla.com Live Chat offers the Use of an Attention Grabber to get the attention of your visitors! Upload a custom image with your picture or any other message you'd like to communicate. Get creative and use it for marketing promotions too!  
 
-* The Customer Inbox help desk allows you to **search your live chat history** or offline emails by customer email address, priority, status (new, read, pending, complete), flagged vs. unflagged, and also assign an item to another user of your Formilla.com Live Chat account.    
+* **Advanced Customization:** Formilla.com Live Chat gives you the ability to stretch the width and height of the chat button, add an image to it such as your logo, and control the location down to the pixel! You get access to the CSS for the Chat Button and Attention Grabber to make it look perfect!
 
-* Access your **chat history** and offline emails as well via the Formilla.com Live Chat Customer Inbox help desk solution.   
+* **Chat Button Location:** Easily move the position of the "Chat with us" and "Email us" buttons and forms to the bottom left or right of your website with our customization options.
 
-* Formilla.com Live Chat software allows you to **export your customers' email addresses** from the Customer Inbox help desk to construct email marketing campaigns via your preferred tool.
+* **Multiple Chat Agents:** Our Premium packages allow you to add multiple chat agents to your Formilla.com Live Chat account to support incoming live chats from your customers.
 
-* **Forward offline email submissions** from your customers to other departments or staff directly from the Formilla.com Live Chat customer inbox help desk.
+* **Offline Email Form:** Formilla.com Live Chat automatically displays as an 'Email us' button on your site when you're offline.  You can manage offline messages through the Formilla.com Customer Inbox or on the go by using your preferred email client.  The Customer Inbox comes with your account as a Help Desk solution for managing customer email, customer feedback, prioritization, and ticket management.
 
-*  Formilla.com Live Chat gives you the ability to **add private comments** to any live chat historical record in your Customer Inbox help desk.
+* **Help Desk:** The Customer Inbox help desk allows you to search your live chat history or offline emails by customer email address, priority, status (new, read, pending, complete), flagged vs. unflagged, and also assign an item to another user of your Formilla.com Live Chat account.    
 
-* Formilla.com Customer Inbox help desk includes the customer's **technical details** such as operating system, browser, screen resolution, etc.  Also pass in **custom fields for easier tracking** such as account IDs, customer IDs, name, phone, and more!
+* **Chat History:** Access your chat history and offline emails as well via the Formilla.com Live Chat Customer Inbox help desk solution.   
+
+* **Export Email Data:** Formilla.com Live Chat software allows you to export your customers' email addresses from the Customer Inbox help desk to construct email marketing campaigns via your preferred tool.
+
+* **Forward Offline Email:** Using the Formilla.com Live Chat Customer Inbox help desk, forward offline email submissions from your customers to other departments or support staff.
+
+* **Add Private Comments:** Formilla.com Live Chat gives you the ability to add private comments to any live chat historical record in your Customer Inbox help desk.
+
+* **Visitor Technical Info:** Formilla.com Customer Inbox help desk includes the customer's technical details such as operating system, browser, screen resolution, etc.  
+
+* **Custom Fields:** Pass in custom fields from your website to Formilla.com Live Chat for easier tracking such as account IDs, customer IDs, name, phone, and more!
 
 * Get started immediately with our free live chat package and by following our installation video tutorial
-[youtube http://www.youtube.com/embed/3qodtXvmpdg]
+[youtube http://www.youtube.com/watch?v=3qodtXvmpdg]
 
 
 == Installation ==
