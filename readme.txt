@@ -13,7 +13,7 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 [Formilla.com Live Chat Software](http://www.Formilla.com/ "Formilla.com Live Chat Software") offers **FREE live chat and Premium services** for your WordPress site.  Allow your visitors to chat with you live if they have any questions or need support.
 
-**Formilla.com Live Chat Core Features:**
+**Formilla.com Live Chat Core Features:** 
 
 * **Installs Instantly:** You can use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress site upon installation/activation of this plugin.
 
