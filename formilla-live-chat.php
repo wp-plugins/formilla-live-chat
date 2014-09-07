@@ -180,7 +180,7 @@ function formilla_plugin_actions($links, $file) {
 }
 
 /**
-* Formilla Live Chat Settings page.  Once user acivates Formilla account, Formilla Chat ID must be entered here to activate chat)
+* Formilla Live Chat Settings page.  Once user acivates Formilla account, Formilla Chat ID must be entered here to activate chat.)
 */
 function formilla_add_settings_page() {
     function formilla_settings_page() {
