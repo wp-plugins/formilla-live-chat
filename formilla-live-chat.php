@@ -2,8 +2,8 @@
 /*
 Plugin Name: Formilla Live Chat
 Plugin URI: http://www.formilla.com
-Description: Free Live Chat.  No strings attached.
-Version: 1.0.2
+Description: Formilla.com Live Chat brings chat, offline email, and help desk features to your WordPress website.
+Version: 1.1
 Author: Formilla.com
 Author URI: http://www.formilla.com/
 */
@@ -57,34 +57,46 @@ function save_formilla_settings() {
 * Otherwise, iframe in the registration page.
 */
 function Formilla_dashboard() {
-    if(get_option('FormillaID'))
-    {
-    	echo '<div id="dashboarddiv"><iframe id="dashboardiframe" src="'.FORMILLA_DASH.'" height=710 width=98% scrolling="yes"></iframe></div>';
-    }
-    else
-    {
-    ?>
-
-    <form method="post" id="optionsform" action="options.php">
-		<div class="error settings-error" id="setting-error-invalid_admin_email" style="margin: 4px 0px 5px 0px; width: 1100px;">
-			<p style="padding:0px;">
-				<strong>After you sign up, enter the Chat ID you receive and click Save Settings to activate your account.</strong>
-				<?php wp_nonce_field('update-options') ?>
-				<label for="FormillaID">
-				<input type="text" name="FormillaID" id="FormillaID" value="<?php echo(get_option('FormillaID')) ?>" style="width:300px" />
-				<input type="hidden" name="page_options" value="FormillaID" />
-				<input type="submit" onclick="saveFormillaSettings();return false;" name="formillaSettingsSubmit" id="formillaSettingsSubmit" value="<?php _e('Save Settings') ?>" class="button-primary" />
-			</p>
-		</div>
-   </form>
-   <p id="successMessage" style="display:none; color:green;">Your settings were saved successfully!</p>
-   <p id="failureMessage" style="display:none; color:red;">There was an error saving your settings.  Please try again.</p>
+	?>
+	<br /> <br />
+    <img src="<?php echo plugin_dir_url( __FILE__ ).'main-logo.png'; ?>"/>
 
     <?php
-		echo '<div id="dashboarddiv"><iframe id="dashboardiframe" src="'.FORMILLA_REG.'" height=710 width=98% scrolling="yes"></iframe></div>';
-    }
 
+    if(!get_option('FormillaID'))
+    {
     ?>
+    	   <form method="post" id="optionsform" action="options.php">
+				<div class="error settings-error" id="setting-error-invalid_admin_email" style="margin: 4px 0px 5px 0px; width: 1100px;">
+					<p style="padding:0px;">
+						<?php echo '<a href="'.FORMILLA_REG.'"';?> target="_blank">Sign Up</a> and save the Chat ID you receive to activate your account.<br/><br/>
+						<?php wp_nonce_field('update-options') ?>
+						<label for="FormillaID">
+						<input type="text" name="FormillaID" id="FormillaID" value="<?php echo(get_option('FormillaID')) ?>" style="width:300px" />
+						<input type="hidden" name="page_options" value="FormillaID" />
+						<input type="submit" onclick="saveFormillaSettings();return false;" name="formillaSettingsSubmit" id="formillaSettingsSubmit" value="<?php _e('Save Settings') ?>" class="button-primary" />
+					</p>
+				</div>
+		   </form>
+		   <p id="successMessage" style="display:none; color:green;">Your settings were saved successfully.  Your chat widget should now appear on your website!</p>
+		   <p id="failureMessage" style="display:none; color:red;">There was an error saving your settings.  Please try again.</p>
+
+	<?php
+	    }
+	?>
+
+		<div class="metabox-holder" id="formillaLinks" <?php  if(!get_option('FormillaID')){echo 'style="display:none"';} ?> >
+			<div class="postbox">
+				<div style="padding:10px;">
+				<?php echo '<a href="'.FORMILLA_DASH.'"';?> target="_blank">Launch</a> Formilla.com and start chatting!
+				<br/><br/>
+				<a href="http://www.formilla.com/live-chat-help.aspx" target="_blank">View</a> our Help Center if you have any questions.
+				<br/><br/>
+				<a href="options-general.php?page=formilla-live-chat">Modify</a> my Formilla Chat ID.
+				</div>
+			</div>
+		</div>
+
 
     <script>
     	function saveFormillaSettings()
@@ -104,7 +116,8 @@ function Formilla_dashboard() {
 					jQuery('#optionsform').hide();
 					jQuery('#failureMessage').hide();
 					jQuery('#successMessage').show();
-					setTimeout('jQuery("#successMessage").slideUp(1000)', 5000);
+					jQuery('#formillaLinks').slideDown(600);
+					setTimeout('jQuery("#successMessage").slideUp(1000)', 10000);
 				}
 				else
 				{
@@ -167,7 +180,7 @@ function formilla_plugin_actions($links, $file) {
     if($file == $this_plugin && function_exists('admin_url')) {
 
         if(trim(get_option('FormillaID')) == "") {
-        	$settings_link = '<a href="'.admin_url('admin.php?page=Formilla_dashboard').'">'.__('Sign Up').'</a>';
+        	$settings_link = '<a href="'.admin_url('admin.php?page=Formilla_dashboard').'">'.__('Get Started').'</a>';
         }
         else {
         	$settings_link = '<a href="'.admin_url('options-general.php?page=formilla-live-chat').'">'.__('Settings').'</a>';
@@ -186,10 +199,9 @@ function formilla_add_settings_page() {
         global $formilla_domain, $plugurldir; ?>
 <div class="wrap">
         <?php screen_icon() ?>
-    <h2><?php _e('Formilla Live Chat') ?></h2>
+    <img src="<?php echo plugin_dir_url( __FILE__ ).'main-logo.png'; ?>"/>
     <div class="metabox-holder meta-box-sortables ui-sortable pointer">
         <div class="postbox" style="float:left;width:40em;margin-right:10px">
-            <h3 class="hndle"><span><?php _e('Formilla Live Chat Settings') ?></span></h3>
             <div class="inside" style="padding: 0 10px">
                 <form method="post" action="options.php">
                     <p style="text-align:center">
@@ -199,7 +211,7 @@ function formilla_add_settings_page() {
                     <?php
 						if(trim(get_option('FormillaID')) == "") {
 					?>
-							If you don't have an account, click <a href="admin.php?page=Formilla_dashboard">here</a> to sign up.
+							If you don't have an account, click <a href="admin.php?page=Formilla_dashboard">here</a> to get started.
 					<?php
 						}
 					?>
@@ -219,7 +231,7 @@ function formilla_add_settings_page() {
 
 function formilla_create_menu() {
     //create new top-level menu
-    add_menu_page('Account Configuration', 'Formilla Chat', 'administrator', 'Formilla_dashboard', 'Formilla_dashboard');
+    add_menu_page('Account Configuration', 'Formilla Chat', 'administrator', 'Formilla_dashboard', 'Formilla_dashboard', plugin_dir_url( __FILE__ ).'logo.png');
     add_submenu_page('Formilla_dashboard', 'Dashboard', 'Dashboard', 'administrator', 'Formilla_dashboard', 'Formilla_dashboard');
 }
 
