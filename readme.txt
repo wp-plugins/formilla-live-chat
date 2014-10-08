@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: zgilyana
-Tags: free live chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, contact form, customer feedback, olark, snapengage, zopim, casengo, zendesk, banckle, clickdesk
+Tags: free live chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, user tracking, visitor, visitor tracker, visitor monitor, whos online
 Requires at least: 2.7
 Tested up to: 4.0
 Stable tag: 1.1
@@ -20,6 +20,8 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 * **Google Talk Support:** Formilla.com Live Chat software allows you to use your favorite live chat client as long as it works with Google Talk (e.g. Pidgin, Trillian, IMO, etc.).
 
 * **Mobile Chat:** Respond to chats from your iPhone, Android, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
+
+* **Real-time Visitor Monitoring:** Formilla Live Chat real-time visitor monitoring/tracking allows you to see the number of active visitors on your website, and initiate live chats with them.  View each visitor's page URL, referring site, new user vs. returning, and more.  Formilla Live Chat visitor monitoring comes with any of our Premium account packages.
 
 * **Language Support (International):** Our Language support option allows you to customize the text of the live chat buttons, chat forms, and offline email forms.  Our Premium packages allow you to customize your live chat widget in any language, including Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more! 
 
@@ -53,7 +55,7 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 * **Visitor Technical Info:** Formilla.com Customer Inbox help desk includes the customer's technical details such as operating system, browser, screen resolution, etc.  
 
-* **Custom Fields:** Pass in custom fields from your website to Formilla.com Live Chat for easier tracking such as account IDs, customer IDs, name, phone, and more!
+* **Custom Fields:** Pass in custom fields from your website to Formilla.com Live Chat for easier tracking such as account IDs, customer IDs, name, phone, and more.  Some of this data will appear in the Customer Inbox, and also within the visitor monitoring/tracking view as well.  
 
 * Get started immediately with our free live chat package and by following our installation video tutorial
 [youtube http://www.youtube.com/watch?v=3qodtXvmpdg]
@@ -119,6 +121,22 @@ Google Hangouts is different from Google Talk. Unfortunately Google Hangouts wil
 
 = Does the free live chat package allow me to use a smart phone to chat with my customers? =
 Yes. Our free live chat package can be configured with any smart phone or tablet using Google Talk to send and receive chats.
+
+
+= What happens when I choose the 'Request Chat' action from the visitor monitoring dashboard? =
+Formilla Live Chat will pop-up the live chat window to the corresponding visitor of your web site after a few seconds or on the next page load.
+
+
+= Can I modify the message displayed to my website visitors when I request a chat with them via the visitor monitoring page? =
+Yes.  Start by logging in to your Formilla Live Chat account and navigate to the Advanced Options tab of your live chat widget's settings.  You can then modify the 'Request Chat Text' from the current default message and save the changes.  
+
+
+= Is real time visitor monitoring only available to Premium accounts? =
+Yes.  Currently the real time visitor monitoring/tracking feature of Formilla Live Chat is a Premium Solo or Premium account offering only. 
+
+
+= Do I need to refresh the visitor monitoring page to show me the latest status of visitors/users on my web site? =
+No.  You will see the data automatically refresh the user information every few seconds to show you the latest visitors on your web site, what page they're currently on, how long the user has been on your web site, whether they are new or returning, and more. 
 
 
 = How does the 30 chats/emails limit on the standard free live chat package work? =
