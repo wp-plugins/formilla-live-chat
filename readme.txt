@@ -152,8 +152,8 @@ Yes.  The desktop notifications feature works with the standard free live chat o
 
 == Screenshots ==
 
-1. The Formilla Live Chat page integrated within wordpress where you'll receive and respond to chats.
-2. The chat widget installed on your wordpress site upon activation of Formilla.com Live Chat plugin.
+1. The Formilla Live Chat Dashboard where you can monitor your website visitors in real-time and initiate/respond to live chats.
+2. The live chat widget installed on your WordPress site upon activation of Formilla.com Live Chat plugin.
 3. The Formilla Live Chat Customer Inbox help desk.  View chat history, search and respond to offline email submissions, etc.
 4. Configure options for your chat widget such as proactive chat, hours of operation, and email notifications. 
 5. Formilla.com Live Chat admin panel where the creativity begins :)
