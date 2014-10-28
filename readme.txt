@@ -7,13 +7,13 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Install live chat software on your WordPress site! Chat with your visitors with a clean and easy-to-use interface.
+Install live chat software with real-time visior monitoring on your WordPress site! Chat with your visitors with a clean and easy-to-use interface.
 
 == Description ==
 
 [Formilla.com Live Chat Software](http://www.Formilla.com/ "Formilla.com Live Chat Software") offers **FREE live chat and Premium services** for your WordPress site.  Allow your visitors to chat with you live if they have any questions or need support.
 
-**Formilla.com Live Chat Core Features:**
+**Formilla.com Live Chat Features:**
 
 * **Installs Instantly:** You can use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress site upon installation/activation of this plugin.
 
@@ -21,7 +21,7 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 * **Mobile Chat:** Respond to chats from your iPhone, Android, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
 
-* **Real-time Visitor Monitoring:** Formilla Live Chat real-time visitor monitoring/tracking allows you to see the number of active visitors on your website, and initiate live chats with them.  View each visitor's page URL, referring site, new user vs. returning, and more.  Formilla Live Chat visitor monitoring comes with any of our Premium account packages.
+* **Real-time Visitor Monitoring ([demo](http://www.Formilla.com/#visitor-monitoring "demo")):** Formilla Live Chat real-time visitor monitoring/tracking allows you to see the number of active visitors on your website, and initiate live chats with them.  View each visitor's page URL, referring site, new user vs. returning, and more.  Formilla Live Chat visitor monitoring comes with any of our Premium account packages.
 
 * **Language Support (International):** Our Language support option allows you to customize the text of the live chat buttons, chat forms, and offline email forms.  Our Premium packages allow you to customize your live chat widget in any language, including Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more! 
 
@@ -57,8 +57,7 @@ Install live chat software on your WordPress site! Chat with your visitors with 
 
 * **Custom Fields:** Pass in custom fields from your website to Formilla.com Live Chat for easier tracking such as account IDs, customer IDs, name, phone, and more.  Some of this data will appear in the Customer Inbox, and also within the visitor monitoring/tracking view as well.  
 
-* Get started immediately with our free live chat package and by following our installation video tutorial
-[youtube http://www.youtube.com/watch?v=3qodtXvmpdg]
+* Get started immediately with our free live chat package that comes with 15 days of premium services as well.
 
 
 == Installation ==
