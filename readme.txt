@@ -7,7 +7,7 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Install live chat software with real-time visitor monitoring on your WordPress site! Live chat with your visitors with a clean and easy-to-use interface.
+Live chat software with real-time visitor monitoring for your WordPress site! Live chat with your visitors using a clean and easy-to-use interface.
 
 == Description ==
 
