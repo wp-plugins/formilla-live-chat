@@ -7,7 +7,7 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Install live chat software with real-time visior monitoring on your WordPress site! Chat with your visitors with a clean and easy-to-use interface.
+Install live chat software with real-time visitor monitoring on your WordPress site! Live chat with your visitors with a clean and easy-to-use interface.
 
 == Description ==
 
@@ -36,6 +36,8 @@ Install live chat software with real-time visior monitoring on your WordPress si
 * **Attention Grabbers:** Formilla.com Live Chat offers the Use of an Attention Grabber to get the attention of your visitors! Upload a custom image with your picture or any other message you'd like to communicate. Get creative and use it for marketing promotions too!  
 
 * **Advanced Customization:** Formilla.com Live Chat software gives you the ability to stretch the width and height of the live chat button, add an image such as your logo, and control the location down to the pixel! You get access to the CSS for the live chat button and attention grabber to make it look perfect!
+
+* **Require Email Address:** Before visitors start a live chat, you can require them to supply their email address first. 
 
 * **Chat Button Location:** Easily move the position of the "Chat with us" and "Email us" buttons and forms to the bottom left or right of your website with our customization options.
 
