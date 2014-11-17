@@ -72,8 +72,7 @@ Live chat software with real-time visitor monitoring for your WordPress site! Li
 == Frequently Asked Questions ==
 
 = How do I install Formilla.com Live Chat software to my WordPress site? =
-Follow our quick installation video tutorial below or the instructions tab of this page:
-[youtube http://www.youtube.com/watch?v=3qodtXvmpdg]
+Follow our [quick installation video](http://www.youtube.com/watch?v=3qodtXvmpdg "quick installation video") tutorial or the instructions tab of this page.
 
 
 = What is the Formilla 'Chat ID' under the WordPress plugin settings? =
@@ -127,6 +126,9 @@ Yes. Our free live chat package can be configured with any smart phone or tablet
 = What happens when I choose the 'Request Chat' action from the visitor monitoring dashboard? =
 Formilla Live Chat will pop-up the live chat window to the corresponding visitor of your web site after a few seconds or on the next page load.
 
+
+= How does real-time visitor monitoring work? =
+Check out our [real-time visitor monitoring](https://www.youtube.com/watch?v=XW3jgyGxyyc "real time visitor monitoring") video for a short tutorial of the functionality.
 
 = Can I modify the message displayed to my website visitors when I request a chat with them via the visitor monitoring page? =
 Yes.  Start by logging in to your Formilla Live Chat account and navigate to the Advanced Options tab of your live chat widget's settings.  You can then modify the 'Request Chat Text' from the current default message and save the changes.  
