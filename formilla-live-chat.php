@@ -2,7 +2,7 @@
 /*
 Plugin Name: Formilla Live Chat
 Plugin URI: http://www.formilla.com
-Description: Formilla.com Live Chat brings chat, offline email, and help desk features to your WordPress website.
+Description: Formilla.com Live Chat brings chat, offline email, and real-time visitor monitoring features to your WordPress website.
 Version: 1.1
 Author: Formilla.com
 Author URI: http://www.formilla.com/
