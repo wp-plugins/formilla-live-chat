@@ -72,7 +72,11 @@ Live chat software with real-time visitor monitoring for your WordPress site! Li
 == Frequently Asked Questions ==
 
 = How do I install Formilla.com Live Chat software to my WordPress site? =
-Follow our [quick installation video](http://www.youtube.com/watch?v=3qodtXvmpdg "quick installation video") tutorial or the instructions tab of this page.
+Follow our [quick installation video](http://www.youtube.com/watch?v=3qodtXvmpdg "quick installation video") tutorial or the Installation tab of this page.
+
+
+= How do I start a test chat after installing Formilla Live Chat on my WordPress site? =
+Watch our [video tutorial](https://www.youtube.com/watch?v=Cwy1VnSp3EA "video tutorial") to learn how.
 
 
 = What is the Formilla 'Chat ID' under the WordPress plugin settings? =
