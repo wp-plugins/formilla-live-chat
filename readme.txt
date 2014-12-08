@@ -63,6 +63,7 @@ Live chat software with real-time visitor monitoring for your WordPress site! Li
 
 
 == Installation ==
+Manual Instructions:
 
 1. Download and **unzip the formilla-live-chat.zip** to your wordpress **`/wp-content/plugins/`** directory
 2. **Activate** the plugin through the **'Plugins' menu** in WordPress
@@ -104,7 +105,7 @@ Yes.  Access your wordpress admin panel and select the **Formilla Chat** link to
 
 
 = How do I configure Google Talk (gtalk/gchat) instead of using the Formilla.com Live Chat standard offering? =
-Setup Google Talk by accessing your Formilla.com Live Chat account and navigate to **Account Settings --> Manage Users** and select the edit icon for the appropriate account. Under the **Chat Client dropdown**, choose Gtalk and provide your **Chat User Name**. Upon saving, you can log into your Google Talk chat client and you'll notice multiple Formilla.com chat bot invitations. You will need to accept the chat invitations to start using your chat client with Formilla.com. Once you accept the invitations, your chat button should turn to "Chat with us" after a few moments. If you log off from your client, the button will automatically recognize you are no longer available and change to "Email us".
+[Google Talk setup](https://www.youtube.com/watch?v=rhL_WIOKa48 "Google Talk setup") video.  Setup Google Talk by accessing your Formilla.com Live Chat account and navigate to **Account Settings --> Manage Users** and select the edit icon for the appropriate account. Under the **Chat Client dropdown**, choose Gtalk and provide your **Chat User Name**. Upon saving, you can log into your Google Talk chat client and you'll notice multiple Formilla.com chat bot invitations. You will need to accept the chat invitations to start using your chat client with Formilla.com. Once you accept the invitations, your chat button should turn to "Chat with us" after a few moments. If you log off from your client, the button will automatically recognize you are no longer available and change to "Email us".
 
 
 = Can I proactively initiate a live chat session with my customers? =
@@ -112,7 +113,7 @@ Yes.  Simply access your WordPress admin panel and select the **Formilla Chat** 
 
 
 = Does Formilla Live Chat work with my mobile phone (e.g. iPhone, Android, etc.)? =
-Yes.  We recommend using mobile chat clients (e.g. Trillian, Pidgin, IMO, etc.) for use with Google Talk to chat from your mobile phone on the go! For those using the live chat web interface, it is currently not optimized for chat from your mobile phone. We have plans on introducing mobile support in the near future. 
+Yes.  We recommend using mobile chat clients (e.g. Trillian) for use with Google Talk to chat from your mobile phone on the go! For those using the live chat web interface, it is currently not optimized for chat from your mobile phone. We have plans on introducing mobile support in the near future. 
 
 
 = How do I end a chat using my Google Talk client if the user does not end it? =
