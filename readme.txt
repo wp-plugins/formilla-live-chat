@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: zgilyana
-Tags: free live chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, user tracking, visitor, visitor tracker, visitor monitor, whos online
+Tags: free live chat, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, user tracking, visitor, visitor tracker, visitor monitor, whos online
 Requires at least: 2.7
 Tested up to: 4.1
 Stable tag: 1.1
@@ -160,7 +160,7 @@ Yes.  The desktop notifications feature works with the standard free live chat o
 
 == Screenshots ==
 
-1. The Formilla Live Chat Dashboard where you can monitor your website visitors in real-time and initiate/respond to live chats.
+1. The Formilla Live Chat Dashboard where you can monitor your website visitors in real-time and initiate or respond to live chats.
 2. The live chat widget installed on your WordPress site upon activation of Formilla.com Live Chat plugin.
 3. From left to right: Our Email us button and form in English; a customized version of the Email us button and form in Spanish
 4. Configure options for your chat widget such as proactive chat, hours of operation, and email notifications. 
@@ -169,7 +169,7 @@ Yes.  The desktop notifications feature works with the standard free live chat o
 7. From left to right: Our original Email us button and form; a customized version of the Email us button and form.
 8. Formilla.com Live Chat admin panel to select language and customize text
 9. From left to right: Our original Live Chat button and form in English; a customized version of the chat button and form in Spanish
-10. The Formilla Live Chat Customer Inbox help desk.  View chat history, search and respond to offline email submissions, etc.
+10. The Formilla Live Chat Customer Inbox help desk. View chat history, search and respond to offline email submissions, etc.
 
 == Changelog ==
 
