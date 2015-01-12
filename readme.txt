@@ -105,7 +105,7 @@ Yes.  Access your wordpress admin panel and select the **Formilla Chat** link to
 
 
 = How do I configure Google Talk (gtalk/gchat) instead of using the Formilla.com Live Chat standard offering? =
-[Google Talk setup](https://www.youtube.com/watch?v=rhL_WIOKa48 "Google Talk setup") video.  Setup Google Talk by accessing your Formilla.com Live Chat account and navigate to **Account Settings --> Manage Users** and select the edit icon for the appropriate account. Under the **Chat Client dropdown**, choose Gtalk and provide your **Chat User Name**. Upon saving, you can log into your Google Talk chat client and you'll notice multiple Formilla.com chat bot invitations. You will need to accept the chat invitations to start using your chat client with Formilla.com. Once you accept the invitations, your chat button should turn to "Chat with us" after a few moments. If you log off from your client, the button will automatically recognize you are no longer available and change to "Email us".
+Start with our [Google Talk setup](https://www.youtube.com/watch?v=rhL_WIOKa48 "Google Talk setup") video.  Setup Google Talk by accessing your Formilla.com Live Chat account and navigate to **Account Settings --> Manage Users** and select the edit icon for the appropriate account. Under the **Chat Client dropdown**, choose Gtalk and provide your **Chat User Name**. Upon saving, you can log into your Google Talk chat client and you'll notice multiple Formilla.com chat bot invitations. You will need to accept the chat invitations to start using your chat client with Formilla.com. Once you accept the invitations, your chat button should turn to "Chat with us" after a few moments. If you log off from your client, the button will automatically recognize you are no longer available and change to "Email us".
 
 
 = Can I proactively initiate a live chat session with my customers? =
@@ -121,7 +121,7 @@ To end a live chat session, simply send ~end via your Google Talk chat client. I
 
 
 = Is Google Hangouts the same thing as Google Talk, and will it work with Formilla.com Live Chat software? =
-Google Hangouts is different from Google Talk. Unfortunately Google Hangouts will not work via Formilla.com Live Chat. You can either revert back to Google Talk or use our alternative Live Chat web interface.
+Google Hangouts is different from Google Talk. Unfortunately Google Hangouts will not work via Formilla.com Live Chat. You can either revert back to Google Talk or use our alternative Live Chat web interface.  If you're using Google Talk and you're still not able to receive/send messages, please make sure you don't have the Hangouts plugin/extension installed in Chrome either, since it will conflict with Google Talk.
 
 
 = Does the free live chat package allow me to use a smart phone to chat with my customers? =
