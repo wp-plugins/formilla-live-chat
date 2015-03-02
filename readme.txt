@@ -109,7 +109,11 @@ Start with our [Google Talk setup](https://www.youtube.com/watch?v=rhL_WIOKa48 "
 
 
 = Can I proactively initiate a live chat session with my customers? =
-Yes.  Simply access your WordPress admin panel and select the **Formilla Chat** link to access your Formilla.com Live Chat account.  Upon logging in, navigate to your live chat widget's Advanced Option by selecting from the menu as follows: **Live Chat** **-->** **View Widgets** then select the edit icon of your widget and **check** the **'Enable Auto Display'** field to configure proactive live chat from the **Advanced Options** tab.
+Yes.  Simply access your WordPress admin panel and select the **Formilla Chat** link to access your Formilla.com Live Chat account.  You can also access your Formilla Live Chat account outside of WordPress by going directly to Formilla.com.  Upon logging in, navigate to your live chat widget's Advanced Option by selecting from the menu as follows: **Live Chat** **-->** **View Widgets** then select the edit icon of your widget and **check** the **'Enable Auto Display'** field to configure proactive live chat from the **Advanced Options** tab.
+
+
+= Can I require my site visitors to provide their email address before starting a live chat session? =
+Yes.  To enable this setting, login to your Formilla Live Chat account and navigate to your live chat widget's Advanced Options by selecting from the menu as follows: **Live Chat** **-->** **Customize Chat Widgets** then select the edit icon of your widget and enable the "Require visitors to enter email before starting a chat" setting in the **Advanced Options** tab.
 
 
 = Does Formilla Live Chat work with my mobile phone (e.g. iPhone, Android, etc.)? =
