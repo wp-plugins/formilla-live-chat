@@ -17,9 +17,7 @@ Live chat software with real-time visitor monitoring for your WordPress site! Li
 
 * **Installs Instantly:** You can use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress site upon installation/activation of this plugin.
 
-* **Google Talk Support:** Formilla.com Live Chat software allows you to use your favorite live chat client as long as it works with Google Talk (e.g. Pidgin, Trillian, IMO, etc.).
-
-* **Mobile Chat:** Respond to chats from your iPhone, Android, or any smart phone live chat client supporting Google Talk (gtalk).  Our Google Talk option allows for up to four concurrent chats per chat agent.
+* **Mobile Chat via iPhone/iPad and Android Devices:** Live chat via your mobile device or tablet by using our iPhone/iPad or Android apps! Install our app and simply login to your Formilla Live Chat account to chat with customers from anywhere!  This feature is available with any Premium package.
 
 * **Real-time Visitor Monitoring ([demo](http://www.Formilla.com/#visitor-monitoring "demo")):** Formilla Live Chat real-time visitor monitoring/tracking allows you to see the number of active visitors on your website, and initiate live chats with them.  View each visitor's page URL, referring site, new user vs. returning, and more.  Formilla Live Chat visitor monitoring comes with any of our Premium account packages.
 
@@ -41,9 +39,9 @@ Live chat software with real-time visitor monitoring for your WordPress site! Li
 
 * **Chat Button Location:** Easily move the position of the "Chat with us" and "Email us" buttons and forms to the bottom left or right of your website with our customization options.
 
-* **Multiple Chat Agents:** Our Premium packages allow you to add multiple chat agents to your Formilla.com Live Chat account to support incoming live chats from your customers.
+* **Multiple Live Chat Agents:** Our Premium packages allow you to add multiple chat agents to your Formilla.com Live Chat account to support incoming live chats from your customers.
 
-* **Offline Email Form:** Formilla.com Live Chat software automatically displays as an 'Email us' button on your site when you're offline.  You can manage offline messages through the Formilla.com Customer Inbox or on the go by using your preferred email client.  The Customer Inbox comes with your live chat software account as a Help Desk solution for managing customer email, customer feedback, prioritization, and ticket management.
+* **Offline Email Form:** Formilla.com Live Chat software automatically displays as an 'Email us' button on your site when you're unavailable to chat.  You can manage offline messages through the Formilla.com Customer Inbox or on the go by using your preferred email client.  The Customer Inbox comes with your live chat software account as a Help Desk solution for managing customer email, customer feedback, prioritization, and ticket management.
 
 * **Help Desk:** The Customer Inbox help desk allows you to search your live chat history or offline emails by customer email address, priority, status (new, read, pending, complete), flagged vs. unflagged, and also assign an item to another user of your Formilla.com Live Chat account.    
 
@@ -55,7 +53,7 @@ Live chat software with real-time visitor monitoring for your WordPress site! Li
 
 * **Add Private Comments:** Formilla.com Live Chat gives you the ability to add private comments to any live chat historical record in your Customer Inbox help desk.
 
-* **Visitor Technical Info:** Formilla.com Customer Inbox help desk includes the customer's technical details such as operating system, browser, screen resolution, etc.  
+* **Visitor Technical Info:** Formilla.com Customer Inbox help desk includes the customer's technical details such as operating system, browser, screen resolution, etc.  Also, view visitor technical info during a live chat session.
 
 * **Custom Fields:** Pass in custom fields from your website to Formilla.com Live Chat for easier tracking such as account IDs, customer IDs, name, phone, and more.  Some of this data will appear in the Customer Inbox, and also within the visitor monitoring/tracking view as well.  
 
@@ -164,16 +162,13 @@ Yes.  The desktop notifications feature works with the standard free live chat o
 
 == Screenshots ==
 
-1. The Formilla Live Chat Dashboard where you can monitor your website visitors in real-time and initiate or respond to live chats.
+1. Install Formilla Live Chat on your website and chat with your visitors from anywhere!  Mobile apps come with any premium account.
 2. The live chat widget installed on your WordPress site upon activation of Formilla.com Live Chat plugin.
-3. From left to right: Our Email us button and form in English; a customized version of the Email us button and form in Spanish
-4. Configure options for your chat widget such as proactive chat, hours of operation, and email notifications. 
-5. Formilla.com Live Chat admin panel where the creativity begins :)
-6. From left to right: Our original live chat button and form; a customized version of the chat button and form.
-7. From left to right: Our original Email us button and form; a customized version of the Email us button and form.
-8. Formilla.com Live Chat admin panel to select language and customize text
-9. From left to right: Our original Live Chat button and form in English; a customized version of the chat button and form in Spanish
-10. The Formilla Live Chat Customer Inbox help desk. View chat history, search and respond to offline email submissions, etc.
+3. Live chat via your mobile device or tablet by using our iPhone/iPad or Android apps.  Receive push notifications for every chat!
+4. Formilla Live Chat Dashboard where you can live chat with your website visitors.
+5. Real-time Visitor Monitoring Dashboard where you can monitor your website visitors and initiate live chats proactively.
+6. If you're not available to chat, an offline Email us button will appear.  Examples in English and Spanish of the Email us form.
+7. The Formilla Live Chat Customer Inbox help desk. View live chat history, search and respond to offline email submissions, etc. 
 
 == Changelog ==
 
