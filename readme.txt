@@ -19,7 +19,7 @@ Live chat software with real-time visitor monitoring for your WordPress site! Li
 
 * **Mobile Chat via iPhone/iPad and Android Devices:** Live chat via your mobile device or tablet by using our iPhone/iPad or Android apps! Install our app and simply login to your Formilla Live Chat account to chat with customers from anywhere!  This feature is available with any Premium package.
 
-* **Real-time Visitor Monitoring ([demo](http://www.Formilla.com/#visitor-monitoring "demo")):** Formilla Live Chat real-time visitor monitoring/tracking allows you to see the number of active visitors on your website, and initiate live chats with them.  View each visitor's page URL, referring site, new user vs. returning, and more.  Formilla Live Chat visitor monitoring comes with any of our Premium account packages.
+* **Real-time Visitor Monitoring ([demo](http://www.Formilla.com/#visitor-monitoring "demo")):** Formilla Live Chat real-time visitor monitoring/tracking allows you to see the number of active visitors on your website, and initiate live chats with them.  View what country the visitor is accessing your site from, their recently viewed web pages, operating system in use (Windows, Mac, iOS, Android, etc.), internet browser, referring site, new user vs. returning, IP address, and more.  Formilla Live Chat visitor monitoring comes with any of our Premium account packages.
 
 * **Language Support (International):** Our Language support option allows you to customize the text of the live chat buttons, chat forms, and offline email forms.  Our Premium packages allow you to customize your live chat widget in any language, including Spanish, French, Indonesian, Portuguese, Chinese, Hindi, Italian, and much more! 
 
