@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: zgilyana
-Tags: free live chat, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, user tracking, visitor, visitor tracker, visitor monitor, whos online
+Tags: free live chat, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, user tracking, visitor, visitor tracker, visitor monitor, woocommerce
 Requires at least: 2.7
 Tested up to: 4.2
 Stable tag: 1.1
@@ -15,9 +15,9 @@ Live chat software with real-time visitor monitoring for your WordPress site! Li
 
 **Formilla.com Live Chat Features:**
 
-* **Installs Instantly:** You can use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress site upon installation/activation of this plugin.
+* **Installs Instantly:** Use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress or WooCommerce site upon installation/activation of this plugin.
 
-* **Mobile Chat via iPhone/iPad and Android Devices:** Live chat via your mobile device or tablet by using our iPhone/iPad or Android apps! Install our app and simply login to your Formilla Live Chat account to chat with customers from anywhere!  This feature is available with any Premium package.
+* **Mobile Apps for iPhone, iPad, and Android Devices:** Live chat via your mobile device or tablet by using our iPhone/iPad or Android apps! Install our app and simply login to your Formilla Live Chat account to chat with customers from anywhere!  This feature is available with any Premium package.
 
 * **Real-time Visitor Monitoring ([demo](http://www.Formilla.com/#visitor-monitoring "demo")):** Formilla Live Chat real-time visitor monitoring/tracking allows you to see the number of active visitors on your website, and initiate live chats with them.  View what country the visitor is accessing your site from, their recently viewed web pages, operating system in use (Windows, Mac, iOS, Android, etc.), internet browser, referring site, new user vs. returning, IP address, and more.  Formilla Live Chat visitor monitoring comes with any of our Premium account packages.
 
@@ -74,6 +74,10 @@ Manual Instructions:
 Follow our [quick installation video](http://www.youtube.com/watch?v=3qodtXvmpdg "quick installation video") tutorial or the Installation tab of this page.
 
 
+= Does Formilla.com Live Chat work with WooCommerce? =
+Yes, our live chat software easily installs with WooCommerce sites.  Install and activate the plugin from within your WordPress/WooCommerce admin panel for the chat button to appear on your site.  
+
+
 = How do I start a test chat after installing Formilla Live Chat on my WordPress site? =
 Watch our [video tutorial](https://www.youtube.com/watch?v=Cwy1VnSp3EA "video tutorial") to learn how.
 
@@ -115,7 +119,7 @@ Yes.  To enable this setting, login to your Formilla Live Chat account and navig
 
 
 = Does Formilla Live Chat work with my mobile phone (e.g. iPhone, Android, etc.)? =
-Yes.  We recommend using mobile chat clients (e.g. Trillian) for use with Google Talk to chat from your mobile phone on the go! For those using the live chat web interface, it is currently not optimized for chat from your mobile phone. We have plans on introducing mobile support in the near future. 
+Yes.  Use our mobile apps for iPhone, iPad, or Android devices (Premium packages only) or mobile chat clients (e.g. Trillian) for use with Google Talk to chat from your mobile phone on the go! For those using the live chat web interface, it is currently not optimized for chat from your mobile phone. We have plans on introducing mobile support in the near future. 
 
 
 = How do I end a chat using my Google Talk client if the user does not end it? =
@@ -127,7 +131,7 @@ Google Hangouts is different from Google Talk. Unfortunately Google Hangouts wil
 
 
 = Does the free live chat package allow me to use a smart phone to chat with my customers? =
-Yes. Our free live chat package can be configured with any smart phone or tablet using Google Talk to send and receive chats.
+Yes. Our free live chat package can be configured with any smart phone or tablet using Google Talk to send and receive chats.  Note: Google plans to retire Google Talk at some point in the near future in favor of Google Hangouts.  Hangouts unfortunately does not work with 3rd party chat software such as Formilla Live Chat. 
 
 
 = What happens when I choose the 'Request Chat' action from the visitor monitoring dashboard? =
@@ -136,6 +140,7 @@ Formilla Live Chat will pop-up the live chat window to the corresponding visitor
 
 = How does real-time visitor monitoring work? =
 Check out our [real-time visitor monitoring](https://www.youtube.com/watch?v=XW3jgyGxyyc "real time visitor monitoring") video for a short tutorial of the functionality.
+
 
 = Can I modify the message displayed to my website visitors when I request a chat with them via the visitor monitoring page? =
 Yes.  Start by logging in to your Formilla Live Chat account and navigate to the Advanced Options tab of your live chat widget's settings.  You can then modify the 'Request Chat Text' from the current default message and save the changes.  
@@ -159,6 +164,7 @@ Yes.  Our standard free live chat customers can enjoy the Help Desk feature abso
 
 = Can I enable the desktop notifications feature with the standard free live chat package? =
 Yes.  The desktop notifications feature works with the standard free live chat or premium package and can be enabled from within your Formilla.com account, under Account Settings.  Desktop notifications work with Firefox, Chrome, and Safari at this time.  
+
 
 == Screenshots ==
 
