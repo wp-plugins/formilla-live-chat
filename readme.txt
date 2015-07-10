@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Formilla Live Chat ===
 Contributors: formilla-live-chat, zgilyana
 Tags: free live chat, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, user tracking, visitor, visitor tracker, visitor monitor, woocommerce
 Requires at least: 2.7
