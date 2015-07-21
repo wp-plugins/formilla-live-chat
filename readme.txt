@@ -1,8 +1,8 @@
 === Formilla Live Chat - Real-time Chat Plugin ===
 Contributors: formilla-live-chat, zgilyana
-Tags: free live chat, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, user tracking, visitor, visitor tracker, visitor monitor, woocommerce
+Tags: chat online, online chat, free live chat, chat, live chat, livechat, live chat software, live chat widget, chat widget, mobile live chat, wordpress live chat, live support, customer support, chat plugin, woocommerce, woocommerce chat, wp chat
 Requires at least: 2.7
-Tested up to: 4.2
+Tested up to: 4.2.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,7 +15,7 @@ Live chat software with real-time visitor monitoring for your WordPress site! Li
 
 **Formilla.com Live Chat Features:**
 
-* **Installs Instantly:** Use the out-of-the-box Formilla Live Chat web interface to begin live chat immediately.  The live chat button will appear on your WordPress or WooCommerce site upon installation/activation of this plugin.
+* **Installs Instantly:** Use the out-of-the-box Formilla Live Chat web interface to begin live chat online immediately.  The live chat button will appear on your WordPress or WooCommerce site upon installation/activation of this plugin.
 
 * **Mobile Apps for iPhone, iPad, and Android Devices:** Live chat via your mobile device or tablet by using our iPhone/iPad or Android apps! Install our app and simply login to your Formilla Live Chat account to chat with customers from anywhere!  This feature is available with any Premium package.
 
@@ -101,7 +101,7 @@ If you're using the Live Chat web interface, it behaves just like any chat clien
 
 
 = How do I appear offline so that customers cannot chat with me during that time? =
-If you are currently not available to chat, just sign out of your Formilla.com Live Chat account and you will not receive any live chats during this time.  We took a very simple approach to appearing online versus offline for live chat.  If you are using Google Talk via Formilla.com Live Chat instead, simply sign out of your preferred client and Formilla.com will automatically update your status.      
+If you are currently not available online to chat, just sign out of your Formilla.com Live Chat account or change your status to "I'm Offline" from "I'm Online" in the menu bar, and you will not receive any live chats during this time.  We took a very simple approach to appearing online versus offline for live chat.  If you are using Google Talk via Formilla.com Live Chat instead, simply sign out of your preferred client and Formilla.com will automatically update your status.      
 
 
 = Is there a way for me to deactivate my live chat WordPress button momentarily without removing the plugin? =
@@ -175,7 +175,7 @@ Yes.  The desktop notifications feature works with the standard free live chat o
 3. Live chat via your mobile device or tablet by using our iPhone/iPad or Android apps.  Receive push notifications for every chat!
 4. Formilla Live Chat Dashboard where you can live chat with your website visitors.
 5. Real-time Visitor Monitoring Dashboard where you can monitor your website visitors and initiate live chats proactively.
-6. If you're not available to chat, an offline Email us button will appear.  Examples in English and Spanish of the Email us form.
+6. If you're not available online to chat, an offline Email us button will appear.  Examples in English & Spanish of the Email us form.
 7. The Formilla Live Chat Customer Inbox help desk. View live chat history, search and respond to offline email submissions, etc. 
 
 == Changelog ==
