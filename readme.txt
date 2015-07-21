@@ -1,6 +1,6 @@
 === Formilla Live Chat - Real-time Chat Plugin ===
 Contributors: formilla-live-chat, zgilyana
-Tags: chat online, online chat, free live chat, chat, live chat, livechat, live chat software, live chat widget, chat widget, mobile live chat, wordpress live chat, live support, customer support, chat plugin, woocommerce, woocommerce chat, wp chat
+Tags: chat online, online chat, free live chat, chat, live chat, livechat, live chat software, live chat widget, chat widget, widget, mobile live chat, wordpress live chat, live support, customer support, chat plugin, plugin, woocommerce chat, wp chat
 Requires at least: 2.7
 Tested up to: 4.2.2
 Stable tag: 1.1
